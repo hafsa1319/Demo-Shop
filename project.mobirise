@@ -43,7 +43,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/hafsa-logo-11.svg",
-    "mbrsiteDomain": "0wkdlll6ze",
+    "mbrsiteDomain": "8jkxcpjaoh",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -72,7 +72,9 @@
       "themeColor": "#05386b"
     },
     "pwa-switcher": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cssOptimize": true,
+    "lazyLoad": true
   },
   "pages": {
     "index.html": {
